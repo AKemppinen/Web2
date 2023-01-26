@@ -1,0 +1,23 @@
+{
+  "events": [
+   
+    {
+      "id": 1,
+      "name": "Testi",
+      "date": "2022-09-22T13:42:30.104Z",
+      "place": "Tavastia"
+    },
+    {
+      "id": 2,
+      "name": "Suuri tähti",
+      "date": "2022-01-25T10:54:21.971Z",
+      "place": "Savoy"
+    },
+    {
+      "id": 3,
+      "name": "Koronatähti",
+      "date": "2022-08-27T11:01:34.815Z",
+      "place": "Savoy"
+    }
+  ]
+}
