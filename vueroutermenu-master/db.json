@@ -1,6 +1,5 @@
 {
   "events": [
-   
     {
       "id": 1,
       "name": "Testi",
@@ -18,6 +17,12 @@
       "name": "Koronatähti",
       "date": "2022-08-27T11:01:34.815Z",
       "place": "Savoy"
+    },
+    {
+      "name": "Test",
+      "date": "2023-03-14T22:00:00.000Z",
+      "place": "Helsinki",
+      "id": 4
     }
   ]
 }
